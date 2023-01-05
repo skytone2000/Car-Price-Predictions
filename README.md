@@ -1,10 +1,34 @@
 # Car-Price-Predictions
-sfrtkcyuku,kjn
-
-fncvhgjbl bun
-
+Copy code 
+then
+download the data in same folder 
+then run app to view in browser
 ### Testing headers
 
 ```sh
+library(shiny)
+library(shinydashboard)
+library(tidyverse)
+library(shiny)
+library(dplyr)
+#library(cowplot)
+#library(corrplot)
+#library(broom)
+library(ggplot2)
+
+library(tidyr) 
+library(tidyselect)
+library(plotly)
+library(dplyr)
+library(reactable)
+library(htmlwidgets)
+library('IRdisplay')
+library(data.table)
+library(mgcv)
+library(forcats)
+#install.packages("sm")
+library(brglm)
+library(MASS)
+#library(splines)
 install.packages('doremi')
 ````
