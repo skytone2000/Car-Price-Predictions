@@ -1,9 +1,9 @@
 # Car-Price-Predictions
-Copy app.R code 
+Copy or download app.R code 
 
 then
 
-download the .csv file data into same folder on your laptop
+download the .csv file data into same folder as app.R on your laptop
 
 then run app to view in browser
 ### Library needed to run app
