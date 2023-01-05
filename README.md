@@ -3,7 +3,7 @@ Copy code
 then
 download the data in same folder 
 then run app to view in browser
-### Testing headers
+### Library needed to run app
 
 ```sh
 library(shiny)
@@ -30,5 +30,5 @@ library(forcats)
 library(brglm)
 library(MASS)
 #library(splines)
-install.packages('doremi')
+#install.packages('doremi')
 ````
